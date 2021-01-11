@@ -11,7 +11,7 @@ Skills: Android / Flutter / Dart
 - 🌱 I’m currently learning Flutter. 
 - 🤔 I’m looking for help with a good mentorship! 
 - 💬 Ask me about UI/UX designing 
-- 📫 How to reach me: rubytr2000@gmail.com , linkedin.com/in/RUBY TR ,https://stackoverflow.com/users/13520481/ruby-tr?tab=profile
+- 📫 How to reach me: rubytr2000@gmail.com, https://www.linkedin.com/in/ruby-tr-2165771a1/, https://stackoverflow.com/users/13520481/ruby-tr?tab=profile
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: I am an amazing cook. 
 
