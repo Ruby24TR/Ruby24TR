@@ -1,4 +1,4 @@
-### Hi there 👋, RUBY TR
+### Hi I am RUBY
 #### Design and Development for a Better World! 
 ![Design and Development for a Better World ](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
