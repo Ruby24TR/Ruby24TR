@@ -8,5 +8,6 @@ I'm most comfortable in that weird, funky world between design and development�
 - 📫 How to reach me rubytr2000@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am an amazing cook.
--->
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ruby24TR)](https://github.com/anuraghazra/github-readme-stats)
